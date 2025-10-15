@@ -1,7 +1,3 @@
-Of course, Sanele. Here is a README file that summarizes the provided Jupyter Notebook.
-
------
-
 # Applying Machine Learning to Sentiment Analysis
 
 This project provides a comprehensive walkthrough of building a sentiment analysis model for movie reviews. It uses the Large Movie Review Dataset to classify reviews as either positive or negative. The notebook covers essential Natural Language Processing (NLP) and machine learning techniques, from basic text cleaning to advanced topic modeling.
